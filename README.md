@@ -1,2 +1,4 @@
-![screenshot](https://www.google.com/search?sca_esv=01cba71388b00108&rlz=1CAFYBR_enCA974&q=python+cool&udm=2&fbs=AEQNm0A633aOWMcGwo5EkodWqZWQxPIwflRJ4Hu3ORx2YNN2hMyLXvg7YutBzzEkH5jrqRZVNqsK5Bw5ddbAfF-taybgSSQV7ogjWSUk63vkbvL-w-2sTerjJ7a1qtv8zFo28s-nc22keo6muysMGbl8BCfSSXh3FGk1ZY3eeYssKJviJNVvetGnAw9RLPW_1hjO4UjKh9TyvNHuCY5y8W_08ktHQZ8ciA&sa=X&ved=2ahUKEwi5lKqSztmJAxWzjYkEHaO1HAkQtKgLegQIFhAB&biw=1282&bih=745&dpr=1.76&safe=active&ssui=on#vhid=SRjYUAK8WSbL0M&vssid=mosaic)
-print(https://www.google.com/search?sca_esv=01cba71388b00108&rlz=1CAFYBR_enCA974&q=python+cool&udm=2&fbs=AEQNm0A633aOWMcGwo5EkodWqZWQxPIwflRJ4Hu3ORx2YNN2hMyLXvg7YutBzzEkH5jrqRZVNqsK5Bw5ddbAfF-taybgSSQV7ogjWSUk63vkbvL-w-2sTerjJ7a1qtv8zFo28s-nc22keo6muysMGbl8BCfSSXh3FGk1ZY3eeYssKJviJNVvetGnAw9RLPW_1hjO4UjKh9TyvNHuCY5y8W_08ktHQZ8ciA&sa=X&ved=2ahUKEwi5lKqSztmJAxWzjYkEHaO1HAkQtKgLegQIFhAB&biw=1282&bih=745&dpr=1.76&safe=active&ssui=on#vhid=SRjYUAK8WSbL0M&vssid=mosaic)
+![image description](relative/path/in/repository/to/image.svg)
+OR
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
+
