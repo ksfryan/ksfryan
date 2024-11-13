@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @ksfryan
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...code
-- 😄 Pronouns: ...coding
-- ⚡ Fun fact: ...coding
-
-<!---
-ksfryan/ksfryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcio.techgig.com%2Ftechnology-guide%2F5-cool-things-you-can-do-with-python%2Farticleshow_b2b%2F90930406.cms&psig=AOvVaw18bF1Dv-cQgh_rsfcElBHw&ust=1731597675286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC57pXO2YkDFQAAAAAdAAAAABAE)
